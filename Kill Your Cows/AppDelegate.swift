@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Kill Your Cows
 //
-//  Created by Bujold, Emily E (382E-Affiliate) on 6/13/18.
+//  Created by Bujold, Emily E on 6/13/18.
 //  Copyright © 2018 Emily Bujold. All rights reserved.
 //
 
